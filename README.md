@@ -3,6 +3,8 @@ This is the repository for the LinkedIn Learning course `GraphRAG Essential Trai
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
+[![Open in Github Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/avm-avm/graphrag-essential-training-3981041)
+
 ## Course Description
 
 This beginner-friendly course introduces the fundamentals of GraphRAG (Graph Retrieval-Augmented Generation), a cutting-edge technique that combines knowledge graphs with generative AI to enhance contextual relevance and precision. Designed for professionals and students new to GraphRAG, the course covers key concepts, including graph structures, nodes, edges, and relationships, as well as practical skills in building and configuring GraphRAG models. Explore how to integrate GraphRAG into existing workflows to create enriched, data-driven AI applications, through hands-on exercises and real-world examples. By the end of the course, you will be able to identify use cases and implement GraphRAG effectively in a generative AI pipeline.
